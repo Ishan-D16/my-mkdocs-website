@@ -1,0 +1,9 @@
+site_name: My MkDocs Site
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Guide:
+      - Overview: guide/overview.md
+      - Details: guide/details.md
